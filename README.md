@@ -15,7 +15,7 @@ The raw data used to design this model is available [here].
 
 The SQL query model for these calculations is available [here](inventory_master_model.sql). 
 
-See the model's inventory recommendations [here].
+See the model's inventory recommendations [here](inventory_master_GIGI_Hardware.csv).
 
 # Data Architecture
 
