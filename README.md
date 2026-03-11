@@ -13,7 +13,7 @@ Without a systematic approach, the business faced a "Retail Nightmare":
 
 The raw data used to design this model is available [here].
 
-The SQL query model for these calculations is available [here]. 
+The SQL query model for these calculations is available [here](inventory_master_model.sql). 
 
 See the model's inventory recommendations [here].
 
