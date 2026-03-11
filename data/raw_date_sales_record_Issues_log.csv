@@ -1,0 +1,3 @@
+TABLE,COLUMN,ISSUES,ROW_COUNT,MAGNITUDE,SOLVABLE?,RESOLUTION
+Sales_record,-,duplicates of data,342,0.29%,yes,Occurs when cashiers scan items twice instead of manually adjusting the quantity in the system.
+Sales_record,sub_total,negative_transcation,342,1.05%,yes,Negative values are acceptable as they represent compensations or manual adjustments.
