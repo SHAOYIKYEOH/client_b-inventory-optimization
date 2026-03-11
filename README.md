@@ -26,4 +26,13 @@ The model takes these raw transactions and calculates the Inventory_Master table
 
 <img width="1320" height="584" alt="image" src="https://github.com/user-attachments/assets/9636c808-fd68-40e1-b15d-bb2a70d587b9" />
 
+The raw data used to design this model is available [here].
+
+See the model's inventory recommendations [here]
+
+# Calculation Logic
+
+<img width="1180" height="530" alt="image" src="https://github.com/user-attachments/assets/4612e376-2f83-4e1c-9a70-e62ec7a01c0a" />
+
+The SQL query model for these calculations is available [here]. 
 
