@@ -15,7 +15,7 @@ The raw data used to design this model is available [here](raw_date_sales_record
 
 The SQL query model for these calculations is available [here](inventory_master_model.sql). 
 
-See the model's inventory recommendations [here](inventory_master_GIGI_Hardware.csv).
+See the model's inventory recommendations [here](data/inventory_master_GIGI_Hardware.csv).
 
 # Data Architecture
 
@@ -28,7 +28,7 @@ The model takes these raw transactions and calculates the Inventory_Master table
 
 The raw data used to design this model is available [here](raw_date_sales_record.csv).
 
-See the model's inventory recommendations [here](inventory_master_GIGI_Hardware.csv).
+See the model's inventory recommendations [here](data/inventory_master_GIGI_Hardware.csv).
 
 # Calculation Logic
 
