@@ -17,8 +17,13 @@ The SQL query model for these calculations is available [here].
 
 See the model's inventory recommendations [here].
 
-# Data Structure & Initial Checks
+# Data Architecture
 
 RAW data structure seen consists of following attributes: Date_Time, Doc_No, Item_Code, Item_Brand, Item_Description, Qty, Unit_Price, Gross_Total, Discount_Amt, Subtotal. With a total row count of 32,564 records.
 
-<img width="201" height="217" alt="image" src="https://github.com/user-attachments/assets/d1c10bf9-3fc4-46c4-8223-840d3ba300ba" />
+### The Transformation
+The model takes these raw transactions and calculates the Inventory_Master table, which determines exactly when to restock items based on sales trends.
+
+<img width="1320" height="584" alt="image" src="https://github.com/user-attachments/assets/9636c808-fd68-40e1-b15d-bb2a70d587b9" />
+
+
